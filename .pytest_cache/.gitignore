@@ -1,6 +1,26 @@
+# Virtual environment
 venv/
-__pycache__/
-.pytest_cache/
+.venv/
+
+# PyCharm
 .idea/
+
+# Python cache
+__pycache__/
 *.pyc
-weather.db
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# SQLite database
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
