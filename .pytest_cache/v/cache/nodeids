@@ -1,0 +1,14 @@
+[
+  "tests/test_combined_real_db_mock_api.py::test_combined_real_db_mock_api",
+  "tests/test_integration_db.py::test_integration_create_user_and_order",
+  "tests/test_unit_create_order.py::test_create_order_db_failure",
+  "tests/test_unit_create_order.py::test_create_order_success",
+  "tests/test_unit_create_order.py::test_create_order_user_not_found",
+  "tests/test_unit_service.py::test_suggest_product[weather0-umbrella]",
+  "tests/test_unit_service.py::test_suggest_product[weather1-sunglasses]",
+  "tests/test_unit_service.py::test_suggest_product[weather2-jacket]",
+  "tests/test_unit_service.py::test_suggest_product_invalid_condition",
+  "tests/test_unit_weather_api.py::test_get_weather_invalid_response",
+  "tests/test_unit_weather_api.py::test_get_weather_success",
+  "tests/test_unit_weather_api.py::test_get_weather_timeout"
+]
